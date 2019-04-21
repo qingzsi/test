@@ -1,2 +1,2 @@
 # test
-study for git use
+hello world!
